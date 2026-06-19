@@ -18,30 +18,12 @@ This repository documents my complete journey through the **Generative AI for Pr
 - 2 capstone projects
 - Hands-on exercises and real-world applications
 
-**Course Timeline**: 26 April 2026 → 13 July 2026 (79 Days)  
+**Course Timeline**: 26 April 2026 
 **Current Date**: 19 June 2026  
-**Elapsed**: 54 days (68% complete)  
-**Days Remaining**: 24 days
 
-**Progress**: 68% Complete (9/12 Checkpoints) | **Status**: 🟡 IN FINAL SPRINT
 
 ---
 
-## 📊 TIMELINE TRACKER
-
-```
-Start Date:      26 April 2026 ──────────────────────────────
-Current Date:    19 June 2026 ─────────────────────── YOU ARE HERE
-End Date:        13 July 2026 ──────────────────────────────────
-
-Progress:        ████████░░ 68%
-                 [54 days done / 79 total]
-
-Days Remaining:  24 days until completion
-                 Time to finish strong! 🚀
-```
-
----
 
 ## 📚 Course Structure
 
@@ -508,17 +490,7 @@ generative-ai-for-professionals/
 3 July - 12 July:   Final review & polish
 13 July 2026:       🎉 COURSE COMPLETE!
 ```
-
 ---
-
-## 📈 Success Metrics
-
-### Completion Status
-
-- ✅ **Modules 1-10**: 100% Complete
-- 🟡 **Modules 11-12**: In Progress (70% expected by deadline)
-- ✅ **Capstone Projects**: 100% Complete
-- 🟡 **Overall Course**: 68% → Target 100% by 13 July
 
 ### Skills & Knowledge
 
@@ -676,15 +648,8 @@ generative-ai-for-professionals/
 For questions about this course or repository:
 
 - GitHub Issues: [Report issues](https://github.com/nourhenriahii/generative-ai-for-professionals/issues)
-- Email: nourhen@example.com
-- LinkedIn: [Your LinkedIn]
+- Email: nourhenriahi11@gmail.com
 - GitHub: [@nourhenriahii](https://github.com/nourhenriahii)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -695,15 +660,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - AI community for inspiration and collaboration
 - Fellow learners for mutual support and feedback
 
----
-
-## 📅 Timeline Summary
-
-| Period              | Status          | Progress           |
-| ------------------- | --------------- | ------------------ |
-| 26 Apr - 19 Jun     | ✅ Completed    | 54 days / 68%      |
-| 19 Jun - 13 Jul     | 🟡 In Progress  | 24 days / 32%      |
-| **26 Apr - 13 Jul** | **🟡 On Track** | **79 days / 100%** |
 
 ---
 
@@ -715,16 +671,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Days Remaining**: 24 days
 
 ```
-╔════════════════════════════════════════════╗
-║  Generative AI for Professionals         ║
-║  Final Sprint: 24 Days to Completion! 🚀 ║
-║                                           ║
-║  Progress: ████████░░ 68%                 ║
-║  Status: IN FINAL PUSH                    ║
-╚════════════════════════════════════════════╝
-```
-
 ---
 
-**Let's finish strong! The deadline is in sight!** 💪🎯
 # generative-ai-professionals
